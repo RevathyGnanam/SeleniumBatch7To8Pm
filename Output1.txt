@@ -1,2 +1,0 @@
-WelcomejavaHello Java
-java
